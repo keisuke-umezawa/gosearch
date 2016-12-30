@@ -2,8 +2,8 @@ package crawler
 
 import (
 	"fmt"
-	"github.com/c-bata/gosearch/env"
-	"github.com/c-bata/gosearch/models"
+	"github.com/keisuke-umezawa/gosearch/env"
+	"github.com/keisuke-umezawa/gosearch/models"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

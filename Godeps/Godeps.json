@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/c-bata/gosearch",
+	"ImportPath": "github.com/keisuke-umezawa/gosearch",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v60",
 	"Deps": [

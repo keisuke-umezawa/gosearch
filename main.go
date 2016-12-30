@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/c-bata/gosearch/crawler"
-	"github.com/c-bata/gosearch/env"
-	"github.com/c-bata/gosearch/models"
+	"github.com/keisuke-umezawa/gosearch/crawler"
+	"github.com/keisuke-umezawa/gosearch/env"
+	"github.com/keisuke-umezawa/gosearch/models"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"log"
